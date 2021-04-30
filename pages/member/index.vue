@@ -3,6 +3,7 @@
     <Member />
     <div>commit - 1</div>
     <div>commit - 2</div>
+    <div>commit - 2</div>
   </div>
 </template>
 
