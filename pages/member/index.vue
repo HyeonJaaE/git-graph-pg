@@ -1,6 +1,7 @@
 <template>
   <div>
     <Member />
+    <div>commit - 1</div>
   </div>
 </template>
 
