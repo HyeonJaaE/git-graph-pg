@@ -1,6 +1,7 @@
 <template>
   <div>
     <Member />
+    <h1>master</h1>
   </div>
 </template>
 
