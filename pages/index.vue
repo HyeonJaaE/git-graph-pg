@@ -1,28 +1,7 @@
 <template>
   <div class="container">
-    <div>
-      <Logo v-show="$fetchState.pending" />
-      <Logo />
-      <h1 class="title">patrick</h1>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
-    </div>
+    <Logo v-show="$fetchState.pending" />
+    <Services />
   </div>
 </template>
 
