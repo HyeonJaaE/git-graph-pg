@@ -2,6 +2,7 @@
   <div class="container">
     <Logo v-show="$fetchState.pending" />
     <Services />
+    <Services />
   </div>
 </template>
 
