@@ -10,7 +10,6 @@
       <Logo />
       <Logo />
       <Logo />
-      <Logo />
       <h1 class="title">patrick</h1>
       <div class="links">
         <a
