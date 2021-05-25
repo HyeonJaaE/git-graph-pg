@@ -1,5 +1,5 @@
 # patrick
-
+Nuxt framework, git remoted
 ## Build Setup
 
 ```bash
